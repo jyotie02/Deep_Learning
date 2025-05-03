@@ -10,3 +10,6 @@
 
 ##### Autoencoder_Denoising_MNIST : 2-D CNN based encoder-decoder architecture for denoising the digit images
 
+##### PretrainModel_ResNet50_MNIST : Use a pretrained model (ResNet50) as a feature extractor and feed those extracted features into a basic Feedforward Neural Network (FNN) for classification
+
+##### Autoencoder_Denoising_MNIST : 2-D CNN based encoder-decoder architecture for denoising the digit images

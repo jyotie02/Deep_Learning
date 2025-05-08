@@ -23,3 +23,5 @@
 ##### Time_Series_Prediction_with_LSTM_Using_PyTorch : Forecasting for Air Passenger dataset with LSTM using PyTorch
 
 ##### LSTM_AnomalyDetection : Anomaly detection in temperature dataset using LSTM
+
+##### Transformer_MNIST : Classify digit images of MNIST dataset using Transformer encoder model

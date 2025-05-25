@@ -11,7 +11,7 @@
 
  GradCam: Grad-CAM with a pretrained Xception model to visualize which regions in an image contribute most to the model's predictions
 
- Image_Captioning: pretrained Generative Image-to-Text model (microsoft/git-base-coco) to generate image captions by processing input images and decoding the model's textual output.
+ Image_Captioning: Pretrained Generative Image-to-Text model (microsoft/git-base-coco) to generate image captions by processing input images and decoding the model's textual output.
 
  
  
